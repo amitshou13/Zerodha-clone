@@ -6,5 +6,5 @@ function Hero() {
     );
 }
 
-export default Her
+export default Hero;
 <h1> Hero in Pricing</h1>
