@@ -2,8 +2,8 @@ import React from 'react'
 
 function CreateTicket() {
     return (
-        <div className='container p-3'>
-            <div className='row mt-5 p-5 '>
+        <div className='container px-3'>
+            <div className='row mt-5 px-5 '>
                 <p className='text-muted fs-4 px-5'>To create a ticket, select a relevant topic</p>
                 <div className='col-4 px-5 mt-4'>
                     <div className='row'><p className='fs-5'><i class="fa fa-plus-circle" aria-hidden="true"></i> Account Opening</p></div>
@@ -60,7 +60,7 @@ function CreateTicket() {
                     </div>
                 </div>
                 <div className='col-4 px-5 mt-4'>
-                    <div className='row'><p className='fs-5 mt-3'><i class="fa fa-bar-chart" aria-hidden="true"></i> Coin</p></div>
+                    <div className='row'><p className='fs-5 mt-3'><i class="fa fa-circle-o" aria-hidden="true"></i> Coin</p></div>
                     <div className='row mx-2'>
                         <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Understanding mutual funds and Coin</a><br/>
                         <a href='' style={{textDecoration:"none", lineHeight:"2.5"}}>Coin app</a><br/>

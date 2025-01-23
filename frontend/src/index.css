@@ -15,3 +15,19 @@ code {
 .nav-link {
   margin-left: 40px;
 }
+
+#supportHero {
+  background-color: rgb(56, 126, 209);
+  color: white;
+  padding: 0 90px;
+}
+
+#supportHero a {
+  color: white;
+}
+
+#supportwrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 36px;
+}
